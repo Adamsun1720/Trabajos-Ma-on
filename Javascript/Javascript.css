@@ -1,0 +1,55 @@
+#i1
+{
+    background-color: lightsalmon;
+    height: 610px;
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+#Parrafo
+{
+    padding-top: 10px;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+
+h1
+{
+    padding-top: 20px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+#Imagen
+{
+    width: 400px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+#Boton
+{
+    padding-top: 5px;
+    color: linen;
+    background-color: rgb(165, 65, 47);
+    width: 150px;
+    height: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: center;
+}
